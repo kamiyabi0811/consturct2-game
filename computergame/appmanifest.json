@@ -1,6 +1,6 @@
 ﻿{
-	"name": "Computer",
-	"short_name": "Computer",
+	"name": "computer2",
+	"short_name": "computer2",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "any",
